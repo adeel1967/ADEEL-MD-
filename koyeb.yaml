@@ -1,6 +1,6 @@
 name: ADEEL-MD
 services:
-  - name: arslan_md-service
+  - name: adeel_md-service
     type: web
     ports:
       - 5000
