@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name ADEEL-MD",
-    "stop": "pm2 stop ADEEL-MD",
-    "restart": "pm2 restart ADEEL-MD"
+    "stop": "pm2 stop faizan-ai",
+    "restart": "pm2 restart Adeel-md"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:Drayyyxd/XD-Baileys",
+    "@whiskeysockets/baileys":"npm:wileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
@@ -31,6 +31,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "form-data": "^4.0.0",
     "google-tts-api": "^2.0.2",
+    "jimp": "^0.16.1",
     "path": "^0.12.7",
     "node-fetch": "^2.6.1",
     "btch-downloader": "^2.2.9",
