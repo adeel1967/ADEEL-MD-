@@ -24,7 +24,7 @@ WELCOME: process.env.WELCOME || "false",
 ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 // make true to know who dismiss or promoted a member in group
 ANTI_LINK: process.env.ANTI_LINK || "true",
-// true for link kick and delete
+// make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/x2qij1.jpg",
@@ -42,7 +42,7 @@ CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
-// true for only link delete without kick
+// automatic delete links no remove
 OWNER_NUMBER: process.env.OWNER_NUMBER || "923035512967",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "ADEEL-MD",
