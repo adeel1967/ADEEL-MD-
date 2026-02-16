@@ -1,5 +1,5 @@
 <h1 align="center">  
-  <img src="https://files.catbox.moe/q32kkv.jpg" alt="𝐀𝐃𝐄𝐄𝐋-𝐌𝐃" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>  
+  <img src="https://files.catbox.moe/88aacj.jpg" alt="𝐀𝐃𝐄𝐄𝐋-𝐌𝐃" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>  
 </h1>  
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
