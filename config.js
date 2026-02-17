@@ -29,7 +29,7 @@ MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 // make true or false for auto voice reply
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/88aacj.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/x2qij1.jpg",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
@@ -51,7 +51,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ADEEL-MD",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅᴇᴇʟ-ᴍᴅ*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/u4sxir.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/x2qij1.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> I'm alive*ADEEL-MD*🇵🇰",
 // add alive msg here 
