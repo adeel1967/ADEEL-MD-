@@ -130,7 +130,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/88aacj.jpg"
+      "value": "https://files.catbox.moe/x2qij1.jpg"
     },
     
     "DESCRIPTION": {
