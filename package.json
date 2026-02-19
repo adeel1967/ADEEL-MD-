@@ -17,10 +17,9 @@
     "@vitalets/google-translate-api": "^9.2.0",
     "axios": "^1.2.5",
     "pino": "^7.0.5",
-    "pm2": "^6.0.5",
-    "express": "latest",
+    "express": "^4.19.2",
     "moment-timezone": "^0.5.45",
-    "crypto-js": "latest",
+    "crypto-js": "^4.2.0",
     "file-type": "^16.5.3",
     "fluent-ffmpeg": "^2.1.2",
     "form-data": "^4.0.0",
@@ -42,5 +41,8 @@
     "@mrnima/tiktok-downloader": "1.0.0",
     "@mrnima/facebook-downloader": "1.0.0",
     "mrnima-moviedl": "1.0.0"
+  },
+  "devDependencies": {
+    "pm2": "^6.0.5"
   }
 }
