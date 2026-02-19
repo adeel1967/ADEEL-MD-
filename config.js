@@ -35,7 +35,7 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "ADEEL-MD",
 // add bot namw here for menu
-AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
+AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
 // true to get auto status react
 STICKER_NAME: process.env.STICKER_NAME || "ADEEL-MD",
 // type sticker pack name 
