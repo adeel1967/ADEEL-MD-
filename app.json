@@ -1,7 +1,7 @@
 {
   "name": "ADEEL-MD",
   "description": "Javascript WhatsApp bot made by ADEEL-MD",
-  "logo": "https://files.catbox.moe/sx07qa.jpg",
+  "logo": "https://files.catbox.moe/x2qij1.jpg",
   "keywords": ["ADEEL-MD"],
   "success_url": "/",
 
@@ -57,6 +57,12 @@
 
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "AUTO_STATUS_REACT": {
+      "description": "make it true for automatic status reaction or like.",
       "required": true,
       "value": "true"
     }, 
@@ -124,7 +130,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/sx07qa.jpg"
+      "value": "https://files.catbox.moe/x2qij1.jpg"
     },
     
     "DESCRIPTION": {
